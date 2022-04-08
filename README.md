@@ -5,22 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebnaylor" alt="sebnaylor" /></a> </p>
 
-- 🔭 I’m currently working on [a dashboard for AoE2](TBC)
-
+- 🎬 I’m currently working on [a movie watchlist app](TBC)
+- 📡 I've recently completed a [dashboard](https://www.gbaoe2.net) for an Age of Empires 2 community I'm a part of
 - 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on [TBC](TBC)
-
-- 🤝 I’m looking for help with [TBC](TBC)
-
-- 👨‍💻 All of my projects are available at [TBC](TBC)
-
-- 💬 Ask me about **Ruby on rails**
-
 - 📫 How to reach me **sebnaylor@gmail.com**
-
-- 📄 Know about my experiences [TBC](TBC)
-
 - ⚡ Fun fact **The smallest fenced off area in the world is also the largest**
 
 <h3 align="left">Connect with me:</h3>
