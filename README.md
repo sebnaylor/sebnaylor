@@ -7,7 +7,6 @@
 
 - 🎬 I’m currently working on [a movie watchlist app](TBC)
 - 📡 I've recently completed a [dashboard](https://www.gbaoe2.net) for an Age of Empires 2 community I'm a part of
-- 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **sebnaylor@gmail.com**
 - ⚡ Fun fact **The smallest fenced off area in the world is also the largest**
 
