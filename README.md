@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebnaylor" alt="sebnaylor" /></a> </p>
 
-- 🎬 I’m currently working on [a movie watchlist app](TBC)
-- 📡 I've recently completed a [dashboard](https://www.gbaoe2.net) for an Age of Empires 2 community I'm a part of
+- 📚 I’m currently learning React, Node and working on improving my portfolio projects
+- 📡 I've recently completed a [dashboard](https://www.gbaoe2.net) for an Age of Empires 2 community I'm a part of and a [village community website](https://winchelsea-ra.herokuapp.com) for my parent's village.
 - 📫 How to reach me **sebnaylor@gmail.com**
 - ⚡ Fun fact **The smallest fenced off area in the world is also the largest**
 
