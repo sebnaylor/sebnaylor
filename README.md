@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋 I'm Seb</h1>
-<h3 align="center">A full stack developer from London</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebnaylor)](https://github.com/anuraghazra/github-readme-stats)
-
-- 📚 I’m currently learning React, Node and working on improving my portfolio projects
-- 📡 I've recently completed a [dashboard](https://www.gbaoe2.net) for an Age of Empires 2 community I'm a part of and a [village community website](https://winchelsea-ra.herokuapp.com) for my parent's village.
-- 📫 How to reach me **sebnaylor@gmail.com**
-- ⚡ Fun fact **The smallest fenced off area in the world is also the largest**
+<h3 align="center">A Software Engineer based in London</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
